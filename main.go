@@ -7,7 +7,7 @@ import (
 
 func main() {
 	n := ""
-	fmt.Println("develop")
+	fmt.Println("feature")
 	fmt.Print("Введите целое число: ")
 	_, err := fmt.Scanf("%s\n", &n)
 	if err != nil {
